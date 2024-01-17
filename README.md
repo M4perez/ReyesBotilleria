@@ -12,7 +12,7 @@ Este proyecto es un sistema de inventariado diseñado para gestionar y rastrear 
 
 ## Tecnologías Utilizadas
 
-- Frontend: [Angular](https://angular.io)[TypeScripts](https://www.typescriptlang.org/)
+- Frontend: [Angular](https://angular.io), [TypeScripts](https://www.typescriptlang.org/)
 - Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/)
 - Base de Datos: [MongoDB](https://www.mongodb.com/)
 
