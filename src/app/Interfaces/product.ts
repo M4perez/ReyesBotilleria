@@ -1,3 +1,5 @@
+// ESQUEMA DE PRODUCTOS 
+
 export interface Product {
 
     id?: number;
@@ -5,4 +7,4 @@ export interface Product {
     description: string;
     price: number;
     stock: number;
-}
+};
