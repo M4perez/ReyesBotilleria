@@ -7,13 +7,15 @@ import { NavbarComponent } from './Components/navbar/navbar.component';
 import { ListProductsComponent } from './Components/list-products/list-products.component';
 import { AddEditProductComponent } from './Components/add-edit-product/add-edit-product.component';
 
+// SE CREA MODULO "NG G C (NOMBRE DEL COMPONENTE)"
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     ListProductsComponent,
-    AddEditProductComponent
+    AddEditProductComponent,
   ],
+  //LO IMPORTA 
   imports: [
     BrowserModule,
     AppRoutingModule

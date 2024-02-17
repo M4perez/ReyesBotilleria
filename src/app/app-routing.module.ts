@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
+// CREA Y EXPORTA LAS RUTAS DE LOS MODULOS
 const routes: Routes = [];
 
 @NgModule({
