@@ -1,0 +1,7 @@
+/* MARGENES PARA EL LISTADO DE PRODUCTOS */
+.title {
+    margin-top: 50;
+    display: flex;
+    justify-content: space-between;
+
+}
