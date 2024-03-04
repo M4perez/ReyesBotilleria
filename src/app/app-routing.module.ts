@@ -10,6 +10,7 @@ import { AddEditProductComponent } from './Components/add-edit-product/add-edit-
 const routes: Routes = [
   { path: '', component: ListProductsComponent },
   { path: 'add-edit', component: AddEditProductComponent },
+  { path: 'edit/:id', component: AddEditProductComponent },
   { path: '**', redirectTo: '', pathMatch: 'full' },
 ];
 
